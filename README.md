@@ -1,2 +1,1 @@
-# docx-dynamic-generation
-Example for Automating Word Document Creation with Python and FastAPI (Using python-docx-template)
+Medium link: https://medium.com/@huseinkantarci/automating-word-document-creation-with-python-and-fastapi-using-python-docx-template-a92fa4acf7fb
